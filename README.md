@@ -22,5 +22,5 @@ System.Console.WriteLine("Hello world!");
 
 ### Personal Projects
 
-- (WIP) [TianDian Daily](https://tdd.bunnyxt.com) (天钿Daily,`tdd` for short), VC(VOCALOID CHINA)-related data exchange and sharing.
+- (WIP) [TianDian Daily](https://tdd.bunnyxt.com) (天钿Daily,`tdd` for short), VC(VOCALOID CHINA)-related data exchange and sharing. [GitHub project page](https://github.com/users/bunnyxt/projects/1)
 - To Be Continued...

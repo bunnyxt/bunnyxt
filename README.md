@@ -4,7 +4,7 @@ System.Console.WriteLine("Hello world!");
 
 ### About Me
 
-- Student at University of Southern California, M.S. Computer Science (current); Nanjing Agricultural University, B.S. Network Engineering (graduated).
+- Student at University of Southern California, M.S. Computer Science (current); Nanjing Agricultural University, B.E. Network Engineering (2016 - 2020).
 - Laboratory Technician at Peking University, working on a project related to Whole Genomic Prediction (WGP) for rice phenotypes using Machine Learning methods.
 - Follow me at Twitter [@bunnyxt29](https://twitter.com/bunnyxt29), sina weibo [@牛奶源29](https://www.weibo.com/nny29), English 🆗, 中文 🉑️.
 - Personal website: [www.bunnyxt.com](https://www.bunnyxt.com). Email: <a href="mailto:bunnyxt@outlook.com">bunnyxt@outlook.com</a>.

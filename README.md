@@ -1,26 +1,34 @@
-```csharp
-System.Console.WriteLine("Hello world!");
-```
+<h3 align="center">
+  👋Hi! I'm bunnyxt. 
+</h3>
 
-### About Me
+<p align="center">
+  <a href="https://www.bunnyxt.com" target="_blank">Blog</a> |
+  <a href="mailto:bunnyxt@outlook.com">Email</a> |
+  <a href="https://twitter.com/bunnyxt29" target="_blank">Twitter</a> |
+  <a href="https://www.weibo.com/nny29" target="_blank">Weibo</a>
+</p>
 
-- Student at University of Southern California, M.S. Computer Science (current); Nanjing Agricultural University, B.E. Network Engineering (2016 - 2020).
-- Laboratory Technician at Peking University, working on a project related to Whole Genomic Prediction (WGP) for rice phenotypes using Machine Learning methods.
-- Follow me at Twitter [@bunnyxt29](https://twitter.com/bunnyxt29), sina weibo [@牛奶源29](https://www.weibo.com/nny29), English 🆗, 中文 🉑️.
-- Personal website: [www.bunnyxt.com](https://www.bunnyxt.com). Email: <a href="mailto:bunnyxt@outlook.com">bunnyxt@outlook.com</a>.
+### Education
 
-![bunnyxt's github stats](https://github-readme-stats.vercel.app/api?username=bunnyxt&count_private=true&show_icons=true)
+- University of Southern California, M.S. Computer Science (Aug 2020 - present)
+- Nanjing Agricultural University, B.E. Network Engineering (Sep 2016 - Jun 2020)
 
-### Skills
+### Experience
 
-- Frontend frameworks and data visualization tools, `HTML5` + `JS(ES6)` + `CSS3`, `Vue.js`, `Ant Design Vue`, `AntV G2` and more.
-- Backend data storage and api construction, `MySQL`, `PHP`, `Spring Boot`, `Node.js`, `GraphQL` and more.
-- Machine Learning, data analytics, `Python`, `nunpy`, `pandas`, `sklearn`, `tensorflow`, `keras`, `matplotlib` and more.
-- Web spider, `Python`, `requests`, `urllib3` and more.
+- Frontend Developer, Tencent (Apr 2021 - present)
+- Laboratory Technician, Peking University (Jul 2020 - Mar 2021)
 
-![bunnyxt's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bunnyxt&layout=compact)
-
-### Personal Projects
+### Projects
 
 - (WIP) [TianDian Daily](https://tdd.bunnyxt.com) (天钿Daily,`tdd` for short), VC(VOCALOID CHINA)-related data exchange and sharing. [GitHub project page](https://github.com/users/bunnyxt/projects/1)
 - To Be Continued...
+
+<span>
+  <a href="https://www.github.com/bunnyxt">
+    <img src="https://github-readme-stats.vercel.app/api?username=bunnyxt&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%; margin-right: 1%">
+  </a>
+  <a href="https://www.github.com/bunnyxt">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnyxt&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;">
+  </a>
+</span>

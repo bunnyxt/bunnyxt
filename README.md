@@ -16,7 +16,7 @@
 
 ### Experience
 
-- Frontend Developer, Tencent (Apr 2021 - present)
+- Frontend Developer, Tencent (Apr 2021 - Jul 2021)
 - Laboratory Technician, Peking University (Jul 2020 - Mar 2021)
 
 ### Projects

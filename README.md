@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.bunnyxt.com" target="_blank">Blog</a> |
   <a href="mailto:bunnyxt@outlook.com">Email</a> |
+  <a href="https://www.linkedin.com/in/jinyuan-liu/" target="_blank">LinkedIn</a> |
   <a href="https://twitter.com/bunnyxt29" target="_blank">Twitter</a> |
   <a href="https://www.weibo.com/nny29" target="_blank">Weibo</a>
 </p>

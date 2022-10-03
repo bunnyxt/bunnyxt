@@ -17,7 +17,7 @@
 
 ### Experience
 
-- Full Stack Engineer, Tencent America (May 2022 - present)
+- Full Stack Engineer, Tencent America (May 2022 - Aug 2022)
 - Web Developer, University of Southern California (Feb 2022 - present)
 - Frontend Developer, Tencent (Apr 2021 - Jul 2021)
 - Laboratory Technician, Peking University (Jul 2020 - Mar 2021)

@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.bunnyxt.com" target="_blank">Blog</a> |
+  <a href="https://www.bunnyxt.com" target="_blank">Website</a> |
   <a href="mailto:bunnyxt@outlook.com">Email</a> |
   <a href="https://www.linkedin.com/in/jinyuan-liu/" target="_blank">LinkedIn</a> |
   <a href="https://twitter.com/bunnyxt29" target="_blank">Twitter</a> |
@@ -24,8 +24,10 @@
 
 ### Projects
 
-- (WIP) [TianDian Daily](https://tdd.bunnyxt.com) (天钿Daily,`tdd` for short), VC(VOCALOID CHINA)-related data exchange and sharing. [GitHub project page](https://github.com/users/bunnyxt/projects/1)
-- To Be Continued...
+- [TianDian Daily](https://tdd.bunnyxt.com) (天钿Daily,`tdd` for short), VOCALOID CHINA related online video data visualization. [bunnyxt/tdd-frontend](https://github.com/bunnyxt/tdd-frontend), [bunnyxt/tdd-backend](https://github.com/bunnyxt/tdd-backend), [bunnyxt/tdd-spider](https://github.com/bunnyxt/tdd-spider)
+- [USC Films](https://bunnyxt-tmdb.azurewebsites.net), film database website powered by TMDB API. [bunnyxt/bunnyxt-tmdb](https://github.com/bunnyxt/bunnyxt-tmdb)
+- [LCid](https://lcid.cc), access LeetCode problems via id. [bunnyxt/lcid](https://github.com/bunnyxt/lcid)
+- See more projects [here](https://www.bunnyxt.com/projects)!
 
 <span>
   <a href="https://www.github.com/bunnyxt">

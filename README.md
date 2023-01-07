@@ -12,13 +12,13 @@
 
 ### Education
 
-- University of Southern California, M.S. Computer Science (Aug 2020 - present)
+- University of Southern California, M.S. Computer Science (Aug 2020 - Dec 2022)
 - Nanjing Agricultural University, B.E. Network Engineering (Sep 2016 - Jun 2020)
 
 ### Experience
 
 - Full Stack Engineer, Tencent America (May 2022 - Aug 2022)
-- Web Developer, University of Southern California (Feb 2022 - present)
+- Web Developer, University of Southern California (Feb 2022 - Dec 2022)
 - Frontend Developer, Tencent (Apr 2021 - Jul 2021)
 - Laboratory Technician, Peking University (Jul 2020 - Mar 2021)
 

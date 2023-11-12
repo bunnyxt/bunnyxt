@@ -26,7 +26,7 @@
 ### Projects
 
 - [TianDian Daily](https://tdd.bunnyxt.com) (天钿Daily,`tdd` for short), VOCALOID CHINA related online video data visualization. [bunnyxt/tdd-frontend](https://github.com/bunnyxt/tdd-frontend), [bunnyxt/tdd-backend](https://github.com/bunnyxt/tdd-backend), [bunnyxt/tdd-spider](https://github.com/bunnyxt/tdd-spider)
-- [USC Films](https://bunnyxt-tmdb.azurewebsites.net), film database website powered by TMDB API. [bunnyxt/bunnyxt-tmdb](https://github.com/bunnyxt/bunnyxt-tmdb)
+- [USC Films](https://tmdb.bunnyxt.com), film database website powered by TMDB API. [bunnyxt/bunnyxt-tmdb](https://github.com/bunnyxt/bunnyxt-tmdb)
 - [LCid](https://lcid.cc), access LeetCode problems via id. [bunnyxt/lcid](https://github.com/bunnyxt/lcid)
 - See more projects [here](https://www.bunnyxt.com/projects)!
 

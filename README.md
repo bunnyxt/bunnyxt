@@ -17,7 +17,7 @@
 
 ### Experience
 
-- Junior Frontend Engineer, Nium (Feb 2023 - present)
+- Software Development Engineer, Nium (Feb 2023 - present)
 - Full Stack Engineer, Tencent America (May 2022 - Aug 2022)
 - Web Developer, University of Southern California (Feb 2022 - Dec 2022)
 - Frontend Developer, Tencent (Apr 2021 - Jul 2021)
@@ -26,7 +26,6 @@
 ### Projects
 
 - [TianDian Daily](https://tdd.bunnyxt.com) (天钿Daily,`tdd` for short), VOCALOID CHINA related online video data visualization. [bunnyxt/tdd-frontend](https://github.com/bunnyxt/tdd-frontend), [bunnyxt/tdd-backend](https://github.com/bunnyxt/tdd-backend), [bunnyxt/tdd-spider](https://github.com/bunnyxt/tdd-spider)
-- [USC Films](https://tmdb.bunnyxt.com), film database website powered by TMDB API. [bunnyxt/bunnyxt-tmdb](https://github.com/bunnyxt/bunnyxt-tmdb)
 - [LCid](https://lcid.cc), access LeetCode problems via id. [bunnyxt/lcid](https://github.com/bunnyxt/lcid)
 - See more projects [here](https://www.bunnyxt.com/projects)!
 

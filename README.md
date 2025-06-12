@@ -1,13 +1,12 @@
 <h3 align="center">
-  👋Hi! I'm bunnyxt. 
+  👋 Hi! I'm bunnyxt 🐰
 </h3>
 
 <p align="center">
-  <a href="https://www.bunnyxt.com" target="_blank">Website</a> |
+  <a href="https://www.bunnyxt.com" target="_blank">Portfolio</a> |
   <a href="mailto:bunnyxt@outlook.com">Email</a> |
   <a href="https://www.linkedin.com/in/jinyuan-liu/" target="_blank">LinkedIn</a> |
-  <a href="https://twitter.com/bunnyxt29" target="_blank">Twitter</a> |
-  <a href="https://www.weibo.com/nny29" target="_blank">Weibo</a>
+  <a href="https://x.com/bunnyxt29" target="_blank">X</a>
 </p>
 
 ### Education
@@ -17,7 +16,7 @@
 
 ### Experience
 
-- Software Engineer, Nium (Feb 2023 - present)
+- Software Development Engineer, Nium (Feb 2023 - present)
 - Full Stack Engineer, Tencent America (May 2022 - Aug 2022)
 - Web Developer, University of Southern California (Feb 2022 - Dec 2022)
 - Frontend Developer, Tencent (Apr 2021 - Jul 2021)

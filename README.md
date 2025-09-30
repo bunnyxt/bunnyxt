@@ -16,7 +16,8 @@
 
 ### Experience
 
-- Software Development Engineer II, Nium (Feb 2023 - present)
+- Software Engineer, Coinbase (Sep 2025 - present)
+- Software Engineer, Nium (Feb 2023 - Sep 2025)
 - Full Stack Engineer, Tencent America (May 2022 - Aug 2022)
 - Web Developer, University of Southern California (Feb 2022 - Dec 2022)
 - Frontend Developer, Tencent (Apr 2021 - Jul 2021)

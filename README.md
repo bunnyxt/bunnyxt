@@ -28,9 +28,3 @@
 - [TianDian Daily](https://tdd.bunnyxt.com) (天钿Daily,`tdd` for short), VOCALOID CHINA related online video data visualization. [bunnyxt/tdd-frontend](https://github.com/bunnyxt/tdd-frontend), [bunnyxt/tdd-backend](https://github.com/bunnyxt/tdd-backend), [bunnyxt/tdd-spider](https://github.com/bunnyxt/tdd-spider)
 - [LCid](https://lcid.cc), access LeetCode problems via id. [bunnyxt/lcid](https://github.com/bunnyxt/lcid)
 - See more projects [here](https://www.bunnyxt.com/projects)!
-
-<span>
-  <a href="https://www.github.com/bunnyxt">
-    <img src="https://github-readme-stats.vercel.app/api?username=bunnyxt&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%; margin-right: 1%">
-  </a>
-</span>
